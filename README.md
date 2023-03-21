@@ -1,6 +1,5 @@
 # 100JUN-15680
 STUDY
-
 #include<stdio.h>
 
 int main() {
